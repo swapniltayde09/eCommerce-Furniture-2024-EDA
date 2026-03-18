@@ -1,0 +1,4 @@
+discount_bucket,total_products,avg_discount,avg_sales
+"High Discount",215,0.616140,119.7814
+"Medium Discount",1736,0.481273,10.3998
+"Low Discount",49,0.069184,64.8980
