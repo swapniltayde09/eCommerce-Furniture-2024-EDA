@@ -1,0 +1,14 @@
+# Project Requirements
+
+# Data Processing
+Microsoft Excel (Data Cleaning & Preprocessing)
+
+# Database
+MySQL Server 8.0
+MySQL Workbench
+
+# Data Visualization
+Microsoft Power BI Desktop
+
+# Operating Environment
+Windows OS (Recommended)
